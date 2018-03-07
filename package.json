@@ -1,0 +1,25 @@
+{
+  "name": "whichistrue",
+  "version": "1.0.0",
+  "description": "人脑不如电脑系列, 反正我是算不出来, 就交给计算机算吧",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "刑侦科推理题"
+  ],
+  "author": "MasterShu",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.18.2",
+    "seedrandom": "^2.4.3"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
